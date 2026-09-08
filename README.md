@@ -2,6 +2,8 @@
 Statistical analysis in R comparing the diet of native and invasive fish using ecological indices, NMDS, PERMANOVA and GLMM.
 # Native vs Invasive Fish Diet Analysis
 
+![NMDS](imagens/plot-nmds.jpg)
+
 Statistical analysis in **R** comparing the feeding ecology of the native fish *Phalloceros harpagos* and the invasive guppy *Poecilia reticulata* through ecological indices, multivariate analyses and generalized linear mixed models.
 
 ## About the project
