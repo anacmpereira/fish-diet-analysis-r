@@ -85,7 +85,6 @@ The script produces figures such as:
 * Mean prey abundance charts.
 * Shepard plots for NMDS validation.
 
-> *(Figures can be added here as they become available.)*
 
 ## Skills demonstrated
 
